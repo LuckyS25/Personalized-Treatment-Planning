@@ -16,7 +16,6 @@ An interactive web application for healthcare providers to develop personalized 
 1. Clone the repository:
 ```bash
 git clone https://github.com/LuckyS25/Personalized-Treatment-Planning
-cd <repository-name>
 ```
 
 2. Create a virtual environment (optional but recommended):
